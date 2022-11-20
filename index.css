@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-body{
+.background{
     background: url(bg 4.jpg) no-repeat center center fixed;
     background-size: cover;
 }
