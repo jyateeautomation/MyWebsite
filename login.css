@@ -2,8 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
 body{
-    background-image: url("background.jpg") no-repeat center center fixed;
+    background: url("background.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
